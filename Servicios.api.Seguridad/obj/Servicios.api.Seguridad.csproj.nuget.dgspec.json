@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MicroserviceVaxi\\Microservices\\Servicios.api.Seguridad\\Servicios.api.Seguridad.csproj": {}
+    "C:\\Cursos\\Net6\\Microservices\\PruebaMicroservicios\\Servicios.api.Seguridad\\Servicios.api.Seguridad.csproj": {}
   },
   "projects": {
-    "C:\\MicroserviceVaxi\\Microservices\\Servicios.api.Seguridad\\Servicios.api.Seguridad.csproj": {
+    "C:\\Cursos\\Net6\\Microservices\\PruebaMicroservicios\\Servicios.api.Seguridad\\Servicios.api.Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MicroserviceVaxi\\Microservices\\Servicios.api.Seguridad\\Servicios.api.Seguridad.csproj",
+        "projectUniqueName": "C:\\Cursos\\Net6\\Microservices\\PruebaMicroservicios\\Servicios.api.Seguridad\\Servicios.api.Seguridad.csproj",
         "projectName": "Servicios.api.Seguridad",
-        "projectPath": "C:\\MicroserviceVaxi\\Microservices\\Servicios.api.Seguridad\\Servicios.api.Seguridad.csproj",
-        "packagesPath": "C:\\Users\\javix\\.nuget\\packages\\",
-        "outputPath": "C:\\MicroserviceVaxi\\Microservices\\Servicios.api.Seguridad\\obj\\",
+        "projectPath": "C:\\Cursos\\Net6\\Microservices\\PruebaMicroservicios\\Servicios.api.Seguridad\\Servicios.api.Seguridad.csproj",
+        "packagesPath": "C:\\Users\\7370\\.nuget\\packages\\",
+        "outputPath": "C:\\Cursos\\Net6\\Microservices\\PruebaMicroservicios\\Servicios.api.Seguridad\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\javix\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\7370\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -39,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -90,7 +90,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -102,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
